@@ -1,0 +1,82 @@
+---
+title: "Lost Potential: Exploring Youth Unemployment in the Global Labour Force"
+subtitle: "From Cradle to Career: The Quirks and Queries of Youth Unemployment"
+author: "Risikat Sulaimon"
+date: "2024-04-10"
+format: html
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(plotly)
+library(ggplot2)
+library(countrycode)
+library(scales)
+library(dplyr)
+library(viridis)
+library(maps)
+
+# data
+unicef_indicator_1_5_ <- read_csv("C:/Users/rissu/Downloads/unicef_indicator_1 (5).csv")
+unicef_metadata_5_ <- read_csv("C:/Users/rissu/Downloads/unicef_metadata (5).csv")
+
+#Transformations
+Data_join <- full_join(unicef_indicator_1_5_, unicef_metadata_5_, by = join_by(country==country, time_period==year))
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Load necessary packages
+if (!requireNamespace("maps", quietly = TRUE)) {
+  install.packages("maps")
+}
+library(maps)
+
+# Check if 'map_data' function is available
+if (!exists("map_data")) {
+  stop("The 'map_data' function from the 'maps' package is not available.")
+}
+
+# Attempt to create 'map_world' object
+tryCatch({
+  map_world <- map_data("world")
+}, error = function(e) {
+  stop("Error creating 'map_world' object: ", conditionMessage(e))
+})
+
+# Check if 'Data_join' dataset is available
+if (!exists("Data_join")) {
+  stop("The 'Data_join' dataset is not available.")
+}
+
+# Check if required columns are present in 'Data_join'
+if (!all(c("country", "Life expectancy at birth, total (years)") %in% names(Data_join))) {
+  stop("Required columns are missing in 'Data_join'.")
+}
+
+# Attempt to join datasets
+tryCatch({
+  map_data_join <- full_join(Data_join, map_world, by = c("country" = "region"))
+}, error = function(e) {
+  stop("Error joining datasets: ", conditionMessage(e))
+})
+
+# Check if join was successful
+if (!exists("map_data_join")) {
+  stop("Joining datasets failed.")
+}
+
+# Plot the map
+ggplot(map_data_join, aes(x = long, y = lat, group = group, fill = `Life expectancy at birth, total (years)`)) +
+  geom_polygon(color = "black") +  
+  scale_fill_viridis(name = "Life Expectancy", option = "plasma", na.value = "gray50", guide = "legend") + 
+  labs(title = "World Map: Life Expectancy", x = NULL, y = NULL) + 
+  theme_minimal()
+```
+

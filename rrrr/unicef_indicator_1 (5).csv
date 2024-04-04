@@ -1,0 +1,358 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.58,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Afghanistan,AF,AFG,4,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.81,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Albania,AL,ALB,8,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,19.45,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Albania,AL,ALB,8,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,34.47,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Algeria,DZ,DZA,12,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,38.43,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Algeria,DZ,DZA,12,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,32.34,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Angola,AO,AGO,24,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,15.12,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Angola,AO,AGO,24,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,17.43,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Argentina,AR,ARG,32,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,38.61,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Argentina,AR,ARG,32,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,24.24,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Armenia,AM,ARM,51,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,23.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Armenia,AM,ARM,51,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,26.59,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Aruba,AW,ABW,533,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2011,12.8,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Aruba,AW,ABW,533,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2011,26.1,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Australia,AU,AUS,36,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,13.04,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Australia,AU,AUS,36,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,17.66,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Austria,AT,AUT,40,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.49,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Austria,AT,AUT,40,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.98,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Azerbaijan,AZ,AZE,31,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.7,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Azerbaijan,AZ,AZE,31,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.3,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bahamas,BS,BHS,44,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,46.1,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bahamas,BS,BHS,44,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,37.75,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bahrain,BH,BHR,48,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,20.58,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bahrain,BH,BHR,48,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,10.4,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bangladesh,BD,BGD,50,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,17.66,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bangladesh,BD,BGD,50,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,11.51,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Barbados,BB,BRB,52,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,28.96,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Barbados,BB,BRB,52,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,49.54,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Belarus,BY,BLR,112,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.32,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Belarus,BY,BLR,112,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,31.51,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Belgium,BE,BEL,56,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,19.7,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Belgium,BE,BEL,56,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.02,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Belize,BZ,BLZ,84,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.48,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Belize,BZ,BLZ,84,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.14,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bermuda,BM,BMU,60,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,57.07,Female,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Bermuda,BM,BMU,60,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,43.95,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Bhutan,BT,BTN,64,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,22.43,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.66,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bolivia,BO,BOL,68,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.66,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Bolivia, Plurinational State of",BO,BOL,68,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,6.23,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bolivia,BO,BOL,68,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,6.23,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bosnia and Herzegovina,BA,BIH,70,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,53.23,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Bosnia and Herzegovina,BA,BIH,70,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,48.22,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Botswana,BW,BWA,72,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,55.9,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Botswana,BW,BWA,72,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,45.06,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Brazil,BR,BRA,76,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,45.79,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Brazil,BR,BRA,76,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,33.79,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Brunei Darussalam,BN,BRN,96,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,34.68,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Brunei,BN,BRN,96,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,34.68,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Brunei Darussalam,BN,BRN,96,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.74,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Brunei,BN,BRN,96,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.74,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Burkina Faso,BF,BFA,854,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,8.24,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Burkina Faso,BF,BFA,854,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,9.08,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Burundi,BI,BDI,108,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,0.97,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Burundi,BI,BDI,108,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,2.33,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cape Verde,CV,CPV,132,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,47.1,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cape Verde,CV,CPV,132,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,27.1,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cambodia,KH,KHM,116,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,1.68,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cambodia,KH,KHM,116,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,2.61,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cameroon,CM,CMR,120,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,4.5,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cameroon,CM,CMR,120,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,2.92,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Canada,CA,CAN,124,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,15.46,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Canada,CA,CAN,124,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.46,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cayman Islands,KY,CYM,136,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,37.7,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cayman Islands,KY,CYM,136,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,32,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Chad,TD,TCD,148,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,2.53,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Chile,CL,CHL,152,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,32,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Chile,CL,CHL,152,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.46,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Hong Kong,HK,HKG,344,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.34,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Hong Kong,HK,HKG,344,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,19.24,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Macao,MO,MAC,446,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,8.33,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+"Taiwan, Province of China",TW,TWN,158,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,11.59,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Taiwan,TW,TWN,158,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,11.59,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Taiwan, Province of China",TW,TWN,158,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,5.74,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Taiwan,TW,TWN,158,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,5.74,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Colombia,CO,COL,170,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,34.22,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Colombia,CO,COL,170,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,19.89,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Comoros,KM,COM,174,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,22.38,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cook Islands,CK,COK,184,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,5.04,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cook Islands,CK,COK,184,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,1.71,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Costa Rica,CR,CRI,188,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,69.13,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Costa Rica,CR,CRI,188,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,52.47,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Croatia,HR,HRV,191,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,36.88,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Croatia,HR,HRV,191,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,35.57,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cuba,CU,CUB,192,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,13.03,Female,,%,Reanalysed,Free,End of fieldwork,17 to 19 years old
+Cuba,CU,CUB,192,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,5.07,Male,,%,Reanalysed,Free,End of fieldwork,17 to 19 years old
+Cyprus,CY,CYP,196,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,34.28,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Cyprus,CY,CYP,196,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,28.2,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Czech Republic,CZ,CZE,203,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,20.9,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Czech Republic,CZ,CZE,203,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.42,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Côte d'Ivoire,CI,CIV,384,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,3.9,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ivory Coast,CI,CIV,384,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,3.9,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Denmark,DK,DNK,208,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.81,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Denmark,DK,DNK,208,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,14.18,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Djibouti,DJ,DJI,262,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,84.53,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Djibouti,DJ,DJI,262,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,88.24,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Dominican Republic,DO,DOM,214,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.4,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Dominican Republic,DO,DOM,214,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.12,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ecuador,EC,ECU,218,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,10.33,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ecuador,EC,ECU,218,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.47,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Egypt,EG,EGY,818,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,31.8,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Egypt,EG,EGY,818,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,9.82,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+El Salvador,SV,SLV,222,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,15.18,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+El Salvador,SV,SLV,222,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.32,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Estonia,EE,EST,233,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,32.83,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Estonia,EE,EST,233,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,36.65,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Swaziland,SZ,SWZ,748,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,43.22,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Swaziland,SZ,SWZ,748,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,36.88,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ethiopia,ET,ETH,231,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.52,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ethiopia,ET,ETH,231,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,2.9,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Falkland Islands (Malvinas),FK,FLK,238,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,9.38,Female,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Fiji,FJ,FJI,242,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,31.53,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Fiji,FJ,FJI,242,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,16.18,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Finland,FI,FIN,246,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,24.64,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Finland,FI,FIN,246,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.75,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+France,FR,FRA,250,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.22,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+France,FR,FRA,250,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.29,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+French Guiana,GF,GUF,254,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,63.2,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+French Guiana,GF,GUF,254,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,68.4,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Gabon,GA,GAB,266,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,37.92,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Gabon,GA,GAB,266,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,26.96,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Gambia,GM,GMB,270,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,4.21,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Gambia,GM,GMB,270,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,5.53,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Georgia,GE,GEO,268,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,32.03,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Georgia,GE,GEO,268,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,31.09,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Germany,DE,DEU,276,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.9,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Germany,DE,DEU,276,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.33,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ghana,GH,GHA,288,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,4.14,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ghana,GH,GHA,288,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,2.96,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Greece,GR,GRC,300,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,55.61,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Greece,GR,GRC,300,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,46.02,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Greenland,GL,GRL,304,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,21.9,Female,,%,Reanalysed,Free,End of fieldwork,18 to 19 years old
+Greenland,GL,GRL,304,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,19,Male,,%,Reanalysed,Free,End of fieldwork,18 to 19 years old
+Guadeloupe,GP,GLP,312,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,57.2,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Guadeloupe,GP,GLP,312,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,65.7,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Guatemala,GT,GTM,320,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,4.17,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Guatemala,GT,GTM,320,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,3.91,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Guinea-Bissau,GW,GNB,624,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,1.94,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Guyana,GY,GUY,328,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,47.43,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Guyana,GY,GUY,328,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,30.47,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Honduras,HN,HND,340,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,26.79,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Honduras,HN,HND,340,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,11.64,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Hungary,HU,HUN,348,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.53,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Hungary,HU,HUN,348,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,29.19,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Iceland,IS,ISL,352,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.37,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Iceland,IS,ISL,352,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,15.44,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+India,IN,IND,356,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,15.05,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+India,IN,IND,356,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,26.09,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Indonesia,ID,IDN,360,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,14.77,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Indonesia,ID,IDN,360,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,15.55,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Iran, Islamic Republic of",IR,IRN,364,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,20.81,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Iran, Islamic Republic of",IR,IRN,364,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,17.34,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Iraq,IQ,IRQ,368,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,51.99,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Iraq,IQ,IRQ,368,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,35.85,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ireland,IE,IRL,372,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,22.77,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ireland,IE,IRL,372,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,18.43,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Isle of Man,IM,IMN,833,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,8.12,Female,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Isle of Man,IM,IMN,833,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,14.4,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Israel,IL,ISR,376,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,6.22,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Israel,IL,ISR,376,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.01,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Italy,IT,ITA,380,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,55.44,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Italy,IT,ITA,380,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,47.57,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Jamaica,JM,JAM,388,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,35.49,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Jamaica,JM,JAM,388,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,26.31,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Japan,JP,JPN,392,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,3.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Japan,JP,JPN,392,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,3.9,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Jordan,JO,JOR,400,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,41.31,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Jordan,JO,JOR,400,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,53.74,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kazakhstan,KZ,KAZ,398,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,3,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kazakhstan,KZ,KAZ,398,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,3.3,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kenya,KE,KEN,404,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,6.77,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kenya,KE,KEN,404,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,7.53,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kiribati,KI,KIR,296,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,29.08,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,10.48,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Kyrgyzstan,KG,KGZ,417,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,9.59,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,4.44,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Lao People's Democratic Republic,LA,LAO,418,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,4.39,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Lebanon,LB,LBN,422,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,28.57,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Lebanon,LB,LBN,422,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,27.58,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Lesotho,LS,LSO,426,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,34.71,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Lesotho,LS,LSO,426,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,9.82,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Liberia,LR,LBR,430,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,5.35,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Liberia,LR,LBR,430,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,8.86,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Luxembourg,LU,LUX,442,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,28.74,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Luxembourg,LU,LUX,442,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,36.75,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Madagascar,MG,MDG,450,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,1.66,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Madagascar,MG,MDG,450,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,2.86,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Malaysia,MY,MYS,458,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,16.2,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Malaysia,MY,MYS,458,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,14.7,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Maldives,MV,MDV,462,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,16.37,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Maldives,MV,MDV,462,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,29.06,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mali,ML,MLI,466,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,10.62,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mali,ML,MLI,466,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,6.89,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Malta,MT,MLT,470,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.75,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Malta,MT,MLT,470,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.75,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Martinique,MQ,MTQ,474,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,68.1,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Martinique,MQ,MTQ,474,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,59.9,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mauritania,MR,MRT,478,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,22.93,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mauritania,MR,MRT,478,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,17.66,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mauritius,MU,MUS,480,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,50.49,Female,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Mauritius,MU,MUS,480,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,25.96,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Mexico,MX,MEX,484,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.57,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mexico,MX,MEX,484,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.26,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Micronesia, Federated States of",FM,FSM,583,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,28.52,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Monaco,MC,MCO,492,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,41.67,Female,,%,Reanalysed,Free,End of fieldwork,17 to 19 years old
+Monaco,MC,MCO,492,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,56.41,Male,,%,Reanalysed,Free,End of fieldwork,17 to 19 years old
+Mongolia,MN,MNG,496,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,17.27,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Montenegro,ME,MNE,499,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,43.75,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Morocco,MA,MAR,504,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,10.83,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Morocco,MA,MAR,504,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2012,17.4,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mozambique,MZ,MOZ,508,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,5.19,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Mozambique,MZ,MOZ,508,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,7.05,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Myanmar,MM,MMR,104,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,6.02,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Burma,MM,MMR,104,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,6.02,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Myanmar,MM,MMR,104,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,6.29,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Burma,MM,MMR,104,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,6.29,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Namibia,,NAM,516,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,38.75,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Namibia,,NAM,516,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,36.9,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nauru,NR,NRU,520,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2013,60.55,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nauru,NR,NRU,520,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2013,33.47,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nepal,NP,NPL,524,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,24.19,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nepal,NP,NPL,524,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,22.45,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Netherlands,NL,NLD,528,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.61,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Netherlands,NL,NLD,528,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.17,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+New Caledonia,NC,NCL,540,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,54.42,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+New Caledonia,NC,NCL,540,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,71.29,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+New Zealand,NZ,NZL,554,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.08,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+New Zealand,NZ,NZL,554,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.95,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nicaragua,NI,NIC,558,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,10.75,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nicaragua,NI,NIC,558,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,5.95,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Niger,NE,NER,562,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,17.26,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Niger,NE,NER,562,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,18.5,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nigeria,NG,NGA,566,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,39.83,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Nigeria,NG,NGA,566,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,27.2,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,61.63,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,40.2,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Norway,NO,NOR,578,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,18.8,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Norway,NO,NOR,578,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,19.59,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Oman,OM,OMN,512,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,39.79,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Oman,OM,OMN,512,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,50.17,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Pakistan,PK,PAK,586,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.91,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Pakistan,PK,PAK,586,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,9.95,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Panama,PA,PAN,591,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,25.53,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Panama,PA,PAN,591,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,17.42,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Papua New Guinea,PG,PNG,598,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,1.66,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Papua New Guinea,PG,PNG,598,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,2.71,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Paraguay,PY,PRY,600,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,26.81,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Paraguay,PY,PRY,600,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,13.21,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Peru,PE,PER,604,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,9.02,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Peru,PE,PER,604,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,6.92,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Philippines,PH,PHL,608,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.96,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Philippines,PH,PHL,608,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,4.68,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Poland,PL,POL,616,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,23.19,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Poland,PL,POL,616,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,17.51,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Portugal,PT,PRT,620,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,40.77,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Portugal,PT,PRT,620,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,31.84,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Puerto Rico,PR,PRI,630,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2015,46.7,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Qatar,QA,QAT,634,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,0,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Qatar,QA,QAT,634,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,0,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Korea, Republic of",KR,KOR,410,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.16,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+South Korea,KR,KOR,410,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.16,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Korea, Republic of",KR,KOR,410,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.46,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+South Korea,KR,KOR,410,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.46,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Romania,RO,ROU,642,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,45.19,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Romania,RO,ROU,642,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,42.71,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Russian Federation,RU,RUS,643,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,31.51,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Russia,RU,RUS,643,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,31.51,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Russian Federation,RU,RUS,643,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,25.51,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Russia,RU,RUS,643,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,25.51,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Rwanda,RW,RWA,646,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,23.28,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Rwanda,RW,RWA,646,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,24.06,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Réunion,RE,REU,638,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,56,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Réunion,RE,REU,638,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,53.7,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Saint Lucia,LC,LCA,662,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,53.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Saint Lucia,LC,LCA,662,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,65.36,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Samoa,WS,WSM,882,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,35.47,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Samoa,WS,WSM,882,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,12.41,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+San Marino,SM,SMR,674,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,24.87,Female,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+San Marino,SM,SMR,674,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,14.33,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Saudi Arabia,SA,SAU,682,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,44.4,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Saudi Arabia,SA,SAU,682,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,27.3,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Senegal,SN,SEN,686,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,4.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Serbia,RS,SRB,688,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,38.25,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Serbia,RS,SRB,688,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,28.05,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Seychelles,SC,SYC,690,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,26.93,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Seychelles,SC,SYC,690,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,31.28,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Singapore,SG,SGP,702,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,11.15,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Singapore,SG,SGP,702,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,2.45,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Slovakia,SK,SVK,703,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,55.8,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Slovakia,SK,SVK,703,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,41.03,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Slovenia,SI,SVN,705,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,21.29,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Slovenia,SI,SVN,705,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.8,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Somalia,SO,SOM,706,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,36.71,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Somalia,SO,SOM,706,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,40,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+South Africa,ZA,ZAF,710,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,33.54,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+South Africa,ZA,ZAF,710,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,23.05,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Spain,ES,ESP,724,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,51.93,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Spain,ES,ESP,724,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,49.96,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Sri Lanka,LK,LKA,144,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,35.32,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Sri Lanka,LK,LKA,144,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,29.29,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Palestinian Territory, Occupied",PS,PSE,275,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,41.76,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Sudan,SD,SDN,736,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2011,33.09,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Sudan,SD,SDN,736,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2011,28.57,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Suriname,SR,SUR,740,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,61.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Suriname,SR,SUR,740,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,23.33,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Sweden,SE,SWE,752,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,37.61,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Sweden,SE,SWE,752,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,41.58,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Switzerland,CH,CHE,756,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,10.94,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Switzerland,CH,CHE,756,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.72,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Syrian Arab Republic,SY,SYR,760,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,27.19,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Syrian Arab Republic,SY,SYR,760,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2010,19.01,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Tajikistan,TJ,TJK,762,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,6.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Tajikistan,TJ,TJK,762,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,12.4,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Thailand,TH,THA,764,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.1,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Thailand,TH,THA,764,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.04,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Timor-Leste,TL,TLS,626,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2016,13.45,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Togo,TG,TGO,768,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,2.36,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Togo,TG,TGO,768,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,10.85,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Tonga,TO,TON,776,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,13.99,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Tonga,TO,TON,776,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2018,1.2,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Trinidad and Tobago,TT,TTO,780,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,30.13,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Tunisia,TN,TUN,788,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,25.53,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Tunisia,TN,TUN,788,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,32.65,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Turkey,TR,TUR,792,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,22.3,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Turkey,TR,TUR,792,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,16.68,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Uganda,UG,UGA,800,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,4.01,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Uganda,UG,UGA,800,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,5.36,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ukraine,UA,UKR,804,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,27.1,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Ukraine,UA,UKR,804,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2017,28.5,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+United Arab Emirates,AE,ARE,784,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,30.07,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+United Arab Emirates,AE,ARE,784,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,32.08,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+United Kingdom,GB,GBR,826,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,13.29,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+United Kingdom,GB,GBR,826,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,19.14,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,3.01,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Tanzania, United Republic of",TZ,TZA,834,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,2.18,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+United States,US,USA,840,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,10.84,Female,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+United States,US,USA,840,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,12.5,Male,,%,Reanalysed,Free,End of fieldwork,16 to 19 years old
+Uruguay,UY,URY,858,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,51.6,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Uruguay,UY,URY,858,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,38.97,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Uzbekistan,UZ,UZB,860,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,20.72,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Uzbekistan,UZ,UZB,860,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,21.97,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Vanuatu,VU,VUT,548,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,15.26,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Vanuatu,VU,VUT,548,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,14.27,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,23.9,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Venezuela,VE,VEN,862,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,23.9,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,21.3,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Venezuela,VE,VEN,862,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2020,21.3,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Viet Nam,VN,VNM,704,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,6.17,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Vietnam,VN,VNM,704,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,6.17,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Viet Nam,VN,VNM,704,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.12,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Vietnam,VN,VNM,704,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,7.12,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Yemen,YE,YEM,887,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,29.23,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Yemen,YE,YEM,887,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2014,25.39,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Zambia,ZM,ZMB,894,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,8.16,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Zambia,ZM,ZMB,894,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2021,5.89,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Zimbabwe,ZW,ZWE,716,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,9.03,Female,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
+Zimbabwe,ZW,ZWE,716,Percentage of adolescents (aged 15-19 years) in the labour force who are unemployed,2019,6.84,Male,,%,Reanalysed,Free,End of fieldwork,15 to 19 years old
